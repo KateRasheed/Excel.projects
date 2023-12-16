@@ -1,5 +1,5 @@
 # Overview
-I undertook a comprehensive data analysis and visualization project using Microsoft Excel, showcasing my proficiency in leveraging spreadsheet tools for insightful decision-making.
+This project shows a comprehensive data analysis and visualization using Microsoft Excel to generate insights and make informed decisions. 
 
 # Objective 
 The primary goal was to analyze and visualize complex datasets, providing actionable insights to enhance business strategies.
